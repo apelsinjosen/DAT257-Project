@@ -1,2 +1,3 @@
 # DAT257-Project
-Code for the project
+Code for the project where we will build...
+
